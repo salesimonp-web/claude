@@ -1,0 +1,9 @@
+{
+  "name": "n8n_WF3_APPLY_MSG_NOTIFIER_TELEGRAM",
+  "active": false,
+  "settings": {
+    "timezone": "Europe/Paris"
+  },
+  "nodes": [],
+  "connections": {}
+}

@@ -1,0 +1,20 @@
+# Données sensibles — JAMAIS sur GitHub
+backups/
+*.log
+.env
+.env.*
+
+# Trading — données sensibles
+trading/hyperliquid-bot/farming_wallets.json
+trading/hyperliquid-bot/*.tar.gz
+trading/hyperliquid-bot/__pycache__/
+trading/hyperliquid-bot/*.pyc
+trading/hyperliquid-bot/trading_bot.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

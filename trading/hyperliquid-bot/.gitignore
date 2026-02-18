@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+farming_wallets.json
+
+# Logs & state
+*.log
+*_state.json
+trades_history.json
+airdrop_alerts.txt
+faucet_todo.txt
+
+# Archives
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
